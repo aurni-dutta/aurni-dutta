@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Aurni Dutta! I am currently a first year student majoring in Honours Computer Science, and minoring in Honours Creative Writing at the University of Guelph.
+
 <!--
 **aurni-dutta/aurni-dutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
