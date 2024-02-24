@@ -2,7 +2,7 @@
 
 ### 🌞 About Me
 ##### My name is Aurni Dutta! I am currently a first year student majoring in Honours Computer Science, and minoring in Honours Creative Writing at the University of Guelph.
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aurni-dutta)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurni-dutta)
 
 ## Languages
 
